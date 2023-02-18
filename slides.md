@@ -21,7 +21,7 @@ transition: fade-out
 css: unocss
 ---
 
-# Becoming an Open-Source Contributor
+# Becoming an Open-Source Contributor (Egi)
 
 <p class="c-gray-400">
   Memahami Dunia Open-Source: Dari Ide hingga Berkontribusi.
